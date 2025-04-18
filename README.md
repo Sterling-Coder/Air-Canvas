@@ -53,6 +53,4 @@ The application uses MediaPipe to detect hand landmarks in real-time. It tracks 
 
 The drawing interface has color selection buttons at the top of the screen and a separate window showing your drawing on a clean canvas.
 
-## License
-
-[Add your license information here] 
+Enjoy! 😄
